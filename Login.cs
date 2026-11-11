@@ -21,5 +21,6 @@ namespace Stonepoint
         {
             guna2TextBox2.UseSystemPasswordChar = !checkBox1.Checked;
         }
+
     }
 }
